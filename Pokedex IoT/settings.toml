@@ -1,0 +1,4 @@
+CIRCUITPY_WIFI_SSID = "YOUR-SSID-GOES-HERE"
+CIRCUITPY_WIFI_PASSWORD = "YOUR-PASSWORD-GOES-HERE"
+OPENAI_API_KEY="YOUR-API-KEY-GOES-HERE"
+WHAT_POKEMON_PROMPT="Please identify which Pokemon is present in this image with only the name of the Pokemon present in the response. If no Pokemon is present, respond with 'None'. Avoid talking about the quality of the image. Avoid talking about the background of the image. Only respond with the name of the Pokemon if one is present, or 'None' if no Pokemon are present."
